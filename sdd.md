@@ -5,6 +5,8 @@
 <li>mencatat laporan transaksi pembelian barang.</li>
 <li>mencatat kegiatan yang dilakukan di PD. Sri Tanjung.</li>
 </ul>
+
+
 ## 1.3 Gambaran umum dokumen
 Penulisan dokumen ini dibagi menjadi beberapa bab sebagai berikut:
 
