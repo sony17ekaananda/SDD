@@ -31,3 +31,27 @@ spesifikasi program dan desain interface.
 <li>Kasir</li>
 <li>User</li>
 </ul>
+
+
+## 2.4 Batasan - batasan
+* Aplikasi yang berjalan berfungsi sebagai : online shop, pendataan terpusat, berfungsi penghitungan otomatis
+
+* Masalah kesulitan masih di bagian penggunaan user interface karena aplikasi digunakan secara offline dan online
+
+* Transaksi masih menggunakan manual yaitu upload bukti pembayaran
+
+* Aplikasi kemungkinan hanya di gunakan anatara user admin, kasir dengan agen
+
+* Sekuriti penggunaan masih belum di ketahui kesalahanya
+
+
+## 2.5 Asumsi
+* Public atau Member dalam mengunakan Aplikasi pengolahan data ini dianggap sudah paham,
+dapat mengoperasikan komputer serta dapat melakukan navigasi atau browsing
+dengan benar. 
+
+* Setiap Member mempunyai login dan password, dan tidak ada pertukaran
+password antar member. 
+
+* Sudah tersedia sarana koneksi ke Internet, sarana jaringan komputer, dan sarana
+penunjang jaringan lainnya.
