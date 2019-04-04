@@ -55,3 +55,17 @@ password antar member.
 
 * Sudah tersedia sarana koneksi ke Internet, sarana jaringan komputer, dan sarana
 penunjang jaringan lainnya.
+
+<p>3.2 Kebutuhan Non Fungsional</p>
+<p>Kebutuhan yang mendukung kelancaran sistem ini didefinisikan sebagai berikut:</p>
+<ul>
+<li>Availability: online 24 jam, dengan asumsi koneksi Internet dan jaringan berjalan normal</li>
+<li>Reliability: sistem data reliabel berhubungan dengan jumlah stock atau keberadaan stock barang.</li>
+<li>Ergonomy: user friendly dengan memperhatikan hal yang berhubungan dengan Human Computer Interaction</li>
+<li>Portability: dapat diakses dengan berbagai macam browser (IE, Mozilla, dll) Windows</li>
+<li>Memory: Minimum memory untuk server aplikasi 1 Gb, untuk client browser 256 MB</li>
+<li>Response time: tidak terukur</li>
+<li>Security: Login dan validasi password</li>
+</ul>
+<p>3.5 Batasan Perancangan</p>
+<p>Perancangan sistem pada PD. Sri Tanjung ini adalah berbasi web, dan bahasa pemrograman dilakukan dengan menggunakan bahasa pemrograman Html, Css, PHP dan Java.</p>
