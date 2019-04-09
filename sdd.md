@@ -15,7 +15,7 @@
 
 
 
-<p>1.2 Ruang Lingkup</p>
+&emsp;**1.2.**	**Ruang Lingkup**<br>
 <p>Hasil dari SDD ini adalah aplikasi yang berbasis web, yang digunakan untuk membantu manajemen di PD. Sri Tanjung dalam hal:</p>
 <ul>
 <li>mencatat kategori dan produk yang akan ditampilkan di website.</li>
@@ -23,8 +23,7 @@
 <li>mencatat kegiatan yang dilakukan di PD. Sri Tanjung.</li>
 </ul>
 
-
-## 1.3 Gambaran umum dokumen
+&emsp;**1.3.**	**Gambaran umum dokumen**<br>
 Penulisan dokumen ini dibagi menjadi beberapa bab sebagai berikut:
 
 * Bab 1, 
@@ -49,8 +48,7 @@ spesifikasi program dan desain interface.
 <li>User</li>
 </ul>
 
-
-## 2.4 Batasan - batasan
+&emsp;**2.4.**	**Batasan-batasan**<br>
 * Aplikasi yang berjalan berfungsi sebagai : online shop, pendataan terpusat, berfungsi penghitungan otomatis
 
 * Masalah kesulitan masih di bagian penggunaan user interface karena aplikasi digunakan secara offline dan online
@@ -62,7 +60,7 @@ spesifikasi program dan desain interface.
 * Sekuriti penggunaan masih belum di ketahui kesalahanya
 
 
-## 2.5 Asumsi
+&emsp;**2.5.**	**Asumsi**<br>
 * Public atau Member dalam mengunakan Aplikasi pengolahan data ini dianggap sudah paham,
 dapat mengoperasikan komputer serta dapat melakukan navigasi atau browsing
 dengan benar. 
