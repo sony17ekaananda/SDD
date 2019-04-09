@@ -1,3 +1,20 @@
+## BAB I
+**PENDAHULUAN** <br>
+&emsp;**1.1.**	**Tujuan**<br>
+&emsp;&emsp;Tujuan pembuatan SDD (Software Design Description) ini adalah untuk menjelaskan langkah langkah desain dan proses-proses dalam pembuatan sistem aplikasi yang akan diterapkan pada Aplikasi Pendataan Terpusat dan Informasi Produk Usaha Kerupuk Indramayu PD. Sri Tanjung dan juga memberi definisi kebutuhan untuk sistem, spesifikasi kebutuhan fungsional.<br>
+&emsp;&emsp;Fungsi utama dari Aplikasi ini adalah menyediakan informasi barang di jaringan Internet, yang dapat diakses oleh Public dan Member, mempermudah perusahaan dalam merekap laporan keuangan, sarana perhitungan kasir pada perusahaan serta dapat digunakan juga sebagai sarana transaksi pembelian barang oleh Member yang sudah terdaftar.<br>
+&emsp;&emsp;Secara ringkas fungsi aplikasi ini dapat dituliskan sebagai berikut:<br>
+&emsp;&emsp;&emsp;1.	Admin dapat menginputkan fitur kategori kerupuk, profil dari perusahaan dan kegiatan yang berlangsung diperusahaan dagang Sri Tanjung tersebut sehingga dapat dilihat oleh user.<br>
+&emsp;&emsp;&emsp;2.	Admin dapat melihat rekap laporan transaksi yang dilakukan oleh kasir.<br>
+&emsp;&emsp;&emsp;3.	Aplikasi kasir harus mendaftar terlebih dahulu di admin perushaan.<br>
+&emsp;&emsp;&emsp;4.	Pada halaman website, setelah kita melakukan login maka aplikasi tersebut akan memberikan detail daftar olahan kerupuk, harga dari kerupuk dan ukuran dari masing-masing kemasan kerupuk.<br>
+&emsp;&emsp;&emsp;5.	Pembeli harus melakuakan konfirmasi pembelian terlebih dahulu setelah memilih produk olahan kerupuk yang ingin dibeli pada aplikasi website.<br>
+&emsp;&emsp;&emsp;6.	Pembeli melakukan pembayaran setelah konfirmasi pemesanan menu – menu yang dibeli di aplikasi kasir sebagai bukti pembayaran.<br>
+&emsp;&emsp;&emsp;7.	Apliaksi kasir login, kemudian melakukan proses perhitungan pembayaran untuk pembeli.<br>
+&emsp;&emsp;&emsp;8.	Setelah melakukan transaksi kasir dapat melihat laporan pendapatan yang telah dilakukan kasir terhadap pemesanan yang dilakukan oleh pembeli. <br> <br>
+
+
+
 <p>1.2 Ruang Lingkup</p>
 <p>Hasil dari SDD ini adalah aplikasi yang berbasis web, yang digunakan untuk membantu manajemen di PD. Sri Tanjung dalam hal:</p>
 <ul>
