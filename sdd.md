@@ -87,8 +87,20 @@ password antar member.
 
 * Sudah tersedia sarana koneksi ke Internet, sarana jaringan komputer, dan sarana
 penunjang jaringan lainnya.
+<br>
+<br>
 
-<p>3.2 Kebutuhan Non Fungsional</p>
+## BAB III
+**SOFTWARE DESIGN** <br>
+
+&emsp;**3.1.**	**Kebutuhan Fungsional**<br>
+&emsp;&emsp;Kebutuhan fungsional (Functional Requirements) ini adalah kebutuhan utama yang diharapkan dari sistem ini, yang terkait langsung dengan sistem ini. Kebutuhan fungsional dari sistem ini adalah sebagai berikut: <br>
+1. Pencatatan Keanggotaan
+2. Pencatatan Kategori dan Produk Barang
+3. Transaksi Pembelian Online
+4. Manajemen Stok Barang
+5. Pencatatan Pembayaran dan Pengiriman <br>
+&emsp;**3.2.**	**Kebutuhan Non Fungsional**<br>
 <p>Kebutuhan yang mendukung kelancaran sistem ini didefinisikan sebagai berikut:</p>
 <ul>
 <li>Availability: online 24 jam, dengan asumsi koneksi Internet dan jaringan berjalan normal</li>
