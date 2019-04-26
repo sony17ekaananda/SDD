@@ -49,12 +49,12 @@ Linux. <br>
 
 &emsp;**2.2.**	**Manfaat Produk**<br>
 &emsp;&emsp;Manfaat yang didapat manajemen dalam menggunakan sistem atau aplikasi ini adalah:<br>
-&emsp;&emsp;&emsp;*Memudahkan proses pencatatan transaksi.<br>
-&emsp;&emsp;&emsp;*Memudahkan pihak menajemen untuk melakukan checking dan pencatatan terhadap transaksi pembayaran dan transaksi pengiriman.<br>
-&emsp;&emsp;&emsp;*Menyediakan informasi mcngenai kategori dan detail barang dengan lebih baik (rapi, terstruktur).<br>
-&emsp;&emsp;&emsp;*Pencarian daftar barang, harga tiap barang dengan lebih akurat dan lengkap.<br>
-&emsp;&emsp;&emsp;*Mempermudah proses manajemen stok barang.<br>
-&emsp;&emsp;&emsp;*Mempercepat transaksi pembelian maupun transaksi pengiriman.<br>
+* Memudahkan proses pencatatan transaksi.
+* Memudahkan pihak menajemen untuk melakukan checking dan pencatatan terhadap transaksi pembayaran dan transaksi pengiriman.
+* Menyediakan informasi mcngenai kategori dan detail barang dengan lebih baik (rapi, terstruktur).
+* Pencarian daftar barang, harga tiap barang dengan lebih akurat dan lengkap.
+* Mempermudah proses manajemen stok barang.
+* Mempercepat transaksi pembelian maupun transaksi pengiriman.
 
 
 &emsp;**2.3.**	**Prespektif Produk dan Stakeholder**<br>
