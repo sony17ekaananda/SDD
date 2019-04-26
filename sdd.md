@@ -95,11 +95,33 @@ penunjang jaringan lainnya.
 
 &emsp;**3.1.**	**Kebutuhan Fungsional**<br>
 &emsp;&emsp;Kebutuhan fungsional (Functional Requirements) ini adalah kebutuhan utama yang diharapkan dari sistem ini, yang terkait langsung dengan sistem ini. Kebutuhan fungsional dari sistem ini adalah sebagai berikut: <br>
-1. Pencatatan Keanggotaan
-2. Pencatatan Kategori dan Produk Barang
-3. Transaksi Pembelian Online
-4. Manajemen Stok Barang
-5. Pencatatan Pembayaran dan Pengiriman <br>
+1. Pencatatan Kategori dan Produk Barang
+2. Transaksi Pembelian Online
+3. Manajemen Stok Barang
+4. Pencatatan Pembayaran dan Pengiriman <br>
+&emsp;&emsp;**3.1.1.**	**Spesifikasi yang diharapkan pada Kategori dan Produk Barang:**<br>
+* Sistem harus dapat mencatat, menambah dan menghapus kategori barang
+* Setiap kategori barang mempunyai satu atau lebih produk barang.
+* Satu barang hanya dapat didefinisikan dalam satu kategori.
+* Produk barang dapat disertai foto thumbnail, harga, dan spesifikasi detailnya. <br>
+&emsp;&emsp;**3.1.2.**	**Spesifikasi yang diharapkan pada Transaksi Pembelian Online:**<br>
+* Member harus dapat membeli produk secara online dengan memasukkan barang
+yang dibeli kedalam keranjang belanja (shoping cart)
+* Member harus dapat mengetahui jumlah yang harus dibayarkan ditambah dengan biaya pengiriman yang sudah ditentukan.
+* Penetapan biaya pengiriman ditentukan dengan sederhana (ditampilkan tabel
+biaya kirim sederhana) <br>
+&emsp;&emsp;**3.1.3.**	**Spesifikasi yang diharapkan pada Manajemen Stock Barang:**<br>
+* Sistem harus dapat mengurangi jumlah stok barang atas barang yang sudah
+dikirimkan ke pembeli.
+* Penambahan atau retur stock dilakukan oleh administrator dengan cara sederhana dengan mengupdata data jumlah stock pada tabel produk. <br>
+&emsp;&emsp;**3.1.4.**	**Spesifikasi yang diharapkan pada Pencatatan Pembayaran dan Pengiriman:**<br>
+* Sistem harus dapat melakukan pencatatan pembayaran atas pembelian, dengan
+asumsi dilakukan oleh administrator setelah melakukan check saldo secara
+manual.
+* Sistem harus dapat melakukan pencatatan pengiriman barang atas pembelian,
+dengan asumsi dilakukan oleh administrator setelah menerima tanda bukti
+pengiriman (delivery order) secara manual dari pihak expedisi. <br>
+
 &emsp;**3.2.**	**Kebutuhan Non Fungsional**<br>
 <p>Kebutuhan yang mendukung kelancaran sistem ini didefinisikan sebagai berikut:</p>
 <ul>
