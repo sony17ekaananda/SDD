@@ -11,9 +11,7 @@
 &emsp;&emsp;&emsp;5.	Pembeli harus melakuakan konfirmasi pembelian terlebih dahulu setelah memilih produk olahan kerupuk yang ingin dibeli pada aplikasi website.<br>
 &emsp;&emsp;&emsp;6.	Pembeli melakukan pembayaran setelah konfirmasi pemesanan menu – menu yang dibeli di aplikasi kasir sebagai bukti pembayaran.<br>
 &emsp;&emsp;&emsp;7.	Apliaksi kasir login, kemudian melakukan proses perhitungan pembayaran untuk pembeli.<br>
-&emsp;&emsp;&emsp;8.	Setelah melakukan transaksi kasir dapat melihat laporan pendapatan yang telah dilakukan kasir terhadap pemesanan yang dilakukan oleh pembeli. <br> <br>
-
-
+&emsp;&emsp;&emsp;8.	Setelah melakukan transaksi kasir dapat melihat laporan pendapatan yang telah dilakukan kasir terhadap pemesanan yang dilakukan oleh pembeli. <br>
 
 &emsp;**1.2.**	**Ruang Lingkup**<br>
 <p>Hasil dari SDD ini adalah aplikasi yang berbasis web, yang digunakan untuk membantu manajemen di PD. Sri Tanjung dalam hal:</p>
@@ -51,12 +49,12 @@ Linux. <br>
 
 &emsp;**2.2.**	**Manfaat Produk**<br>
 &emsp;&emsp;Manfaat yang didapat manajemen dalam menggunakan sistem atau aplikasi ini adalah:<br>
-&emsp;&emsp;&emsp;• Memudahkan proses pencatatan transaksi.<br>
-&emsp;&emsp;&emsp;• Memudahkan pihak menajemen untuk melakukan checking dan pencatatan terhadap transaksi pembayaran dan transaksi pengiriman.<br>
-&emsp;&emsp;&emsp;• Menyediakan informasi mcngenai kategori dan detail barang dengan lebih baik (rapi, terstruktur).<br>
-&emsp;&emsp;&emsp;• Pencarian daftar barang, harga tiap barang dengan lebih akurat dan lengkap.<br>
-&emsp;&emsp;&emsp;• Mempermudah proses manajemen stok barang.<br>
-&emsp;&emsp;&emsp;• Mempercepat transaksi pembelian maupun transaksi pengiriman.<br>
+&emsp;&emsp;&emsp;*Memudahkan proses pencatatan transaksi.<br>
+&emsp;&emsp;&emsp;*Memudahkan pihak menajemen untuk melakukan checking dan pencatatan terhadap transaksi pembayaran dan transaksi pengiriman.<br>
+&emsp;&emsp;&emsp;*Menyediakan informasi mcngenai kategori dan detail barang dengan lebih baik (rapi, terstruktur).<br>
+&emsp;&emsp;&emsp;*Pencarian daftar barang, harga tiap barang dengan lebih akurat dan lengkap.<br>
+&emsp;&emsp;&emsp;*Mempermudah proses manajemen stok barang.<br>
+&emsp;&emsp;&emsp;*Mempercepat transaksi pembelian maupun transaksi pengiriman.<br>
 
 
 &emsp;**2.3.**	**Prespektif Produk dan Stakeholder**<br>
