@@ -39,8 +39,27 @@ serta asumsi dan ketergantungan yang digunakan.
 adalah Software Design, yang menyediakan spesifikasi, kebutuhan,
 antarmuka, kebutuhan fungsional dan non functional, lingkungan operasi, dan
 batasan perancangan, permodelan proses, permodelan data, struktur data,
-spesifikasi program dan desain interface.
-<p>2.3 Karakteristik User</p>
+spesifikasi program dan desain interface. <br>
+<br>
+
+
+## BAB II
+**DESKRIPSI UMUM** <br>
+&emsp;**2.1.**	**Prespektif Produk**<br>
+&emsp;&emsp;Produk dari SDD ini adalah sebuah aplikasi yang berbasis web, yang akan dijalankan dan berfungsi sebagai Online Store, seperti yang telah dijelaskan pada Pendahuluan. Produk ini akan dapat diakses dari browser yang berjalan pada sistem operasi Windows maupun
+Linux. <br>
+
+&emsp;**2.2.**	**Manfaat Produk**<br>
+&emsp;&emsp;Manfaat yang didapat manajemen dalam menggunakan sistem atau aplikasi ini adalah:<br>
+&emsp;&emsp;&emsp;• Memudahkan proses pencatatan transaksi.<br>
+&emsp;&emsp;&emsp;• Memudahkan pihak menajemen untuk melakukan checking dan pencatatan terhadap transaksi pembayaran dan transaksi pengiriman.<br>
+&emsp;&emsp;&emsp;• Menyediakan informasi mcngenai kategori dan detail barang dengan lebih baik (rapi, terstruktur).<br>
+&emsp;&emsp;&emsp;• Pencarian daftar barang, harga tiap barang dengan lebih akurat dan lengkap.<br>
+&emsp;&emsp;&emsp;• Mempermudah proses manajemen stok barang.<br>
+&emsp;&emsp;&emsp;• Mempercepat transaksi pembelian maupun transaksi pengiriman.<br>
+
+
+&emsp;**2.3.**	**Prespektif Produk dan Stakeholder**<br>
 <p>User yang terlibat adalah sebagai berikut:</p>
 <ul>
 <li>Admin</li>
