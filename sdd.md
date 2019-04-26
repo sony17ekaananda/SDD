@@ -144,5 +144,12 @@ pengiriman (delivery order) secara manual dari pihak expedisi. <br>
 * PHP
 * MSSQL atau Laragon <br>
 
+&emsp;**3.4.**	**Lingkungan Operasi**<br>
+&emsp;&emsp;Aplikasi akan berfungsi dengan lingkungan operasi sebagai berikut:
+* System Operasi: Windows atau Linux
+* DBMS: Berbasis SQL
+* Pemrograinan : PHP 
+
+
 &emsp;**3.5.**	**Batasan Perancangan**<br>
 <p>Perancangan sistem pada PD. Sri Tanjung ini adalah berbasi web, dan bahasa pemrograman dilakukan dengan menggunakan bahasa pemrograman Html, Css, PHP dan Java.</p>
