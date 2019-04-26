@@ -133,5 +133,16 @@ pengiriman (delivery order) secara manual dari pihak expedisi. <br>
 <li>Response time: tidak terukur</li>
 <li>Security: Login dan validasi password</li>
 </ul>
-<p>3.5 Batasan Perancangan</p>
+
+&emsp;**3.3.**	**Kebutuhan Antarmuka (interface)**<br>
+&emsp;&emsp;Antarmuka dalam penerapan aplikasi dibagi menjadi dua, yaitu: <br>
+1. Hardware Interface : adalah kebutuhan perangkat keras yang harus dipenuhi untuk implementasi sistem online store:
+* Web Server
+* Database Server
+2. Software Interface: kebutuhan software untuk implementasi sistem online store:
+* Apache
+* PHP
+* MSSQL atau Laragon <br>
+
+&emsp;**3.5.**	**Batasan Perancangan**<br>
 <p>Perancangan sistem pada PD. Sri Tanjung ini adalah berbasi web, dan bahasa pemrograman dilakukan dengan menggunakan bahasa pemrograman Html, Css, PHP dan Java.</p>
